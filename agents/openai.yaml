@@ -1,0 +1,5 @@
+interface:
+  display_name: "Wedding Album to Editable PPT"
+  short_description: "Tag photos, mock up spreads, and rebuild editable PPT albums"
+  default_prompt: "Use $wedding-album-design-to-ppt to organize these wedding photos, create layout mockups, and deliver an editable PowerPoint album."
+
