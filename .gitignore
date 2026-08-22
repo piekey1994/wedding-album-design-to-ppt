@@ -1,0 +1,23 @@
+# Client and generated assets
+source_photos/
+**/source_photos/
+**/03_ai_design_pages/
+**/04_review/
+**/05_editable_ppt/
+*.ppt
+*.pptx
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.tif
+*.tiff
+*.heic
+
+# Local tooling
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
